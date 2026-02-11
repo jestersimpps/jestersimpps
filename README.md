@@ -38,14 +38,6 @@ AI          Claude API · LangChain · RAG · Agents
 
 ---
 
-### 📊 Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jestersimpps&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jestersimpps&layout=compact&theme=dark&hide_border=true)
-
----
-
 ### 🎯 Currently
 
 - 🏗️ Building AI trading systems with [Clawdbot](https://clawd.bot)
